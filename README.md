@@ -5,7 +5,7 @@
 
 `pip install r6s-account-stats`
 
-``` 
+```python
 from r6s import R6S 
 R6S(nickname)
 ```
