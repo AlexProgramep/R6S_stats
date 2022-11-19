@@ -3,7 +3,7 @@
 
 [GitHub посилання](https://github.com/AlexProgramep/R6S_stats) 
 
-`pip install r6s-account-stats`
+`pip install r6s-stats`
 
 ```python
 from r6s__stats.r6s import R6S 
